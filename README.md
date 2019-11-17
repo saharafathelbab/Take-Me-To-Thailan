@@ -12,6 +12,7 @@ A web application developed for my Software Engineerng Course - allows for a cus
 * HTML & CSS
 * JavaScript
 * mySQL
+* PHP
 
 ####  Why was this project created?
 
